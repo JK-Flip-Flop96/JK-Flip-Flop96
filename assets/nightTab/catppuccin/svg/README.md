@@ -11,4 +11,4 @@ Coloured using the closest colour from the [Catppuccin](https://github.com/catpp
 ## Usage 
 [jsDelivr](https://www.jsdelivr.com) can be used to serve files in this directory e.g:
 
-```https://cdn.jsdelivr.net/gh/JK-Flip-Flop96/JK-Flip-Flop96/Assets/nightTab/catppuccin/svg/catppuccin-catppuccin.min.svg```
+```https://cdn.jsdelivr.net/gh/JK-Flip-Flop96/JK-Flip-Flop96/assets/nightTab/catppuccin/svg/catppuccin-catppuccin.min.svg```
