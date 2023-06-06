@@ -1,6 +1,8 @@
 ## About
 I'm a Linux enthusiast who works on Windows software for a living. I spend a lot of my development time forcing Windows to feel more like Linux 😅.
 
+Certified Catppuccin Enthusiast ☕🐈‍
+
 ## Projects
 - I am the author and maintainer of the [Catppuccin Module for Powershell](https://github.com/Catppuccin/PowerShell)
 - I am slowly working on an [fzf wrapper for various Windows Package Managers](https://github.com/JK-Flip-Flop96/fuzzy-winget)
